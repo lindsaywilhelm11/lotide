@@ -26,4 +26,4 @@ const assertEqual = function(actual, expected) {
 
 
 countLetters('LHL')
-  countLetters('Hi my name is Lindsay')
+countLetters('Hi my name is Lindsay')
